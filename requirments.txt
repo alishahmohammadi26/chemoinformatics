@@ -1,0 +1,6 @@
+rdkit-pypi
+pandas
+seaborn
+mols2grid
+requests
+numpy
